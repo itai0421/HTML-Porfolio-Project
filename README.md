@@ -1,5 +1,4 @@
-# HTML-Porfolio-Project
-<body>
+# itai-Porfolio
   <h1>This is my Portfolio</h1>
   <h2>I'm a Web Developer</h2>
   <hr/>
@@ -11,5 +10,3 @@
   <hr />
   <a href="./public/about.html">About Me</a>
   <a href="./public/contact.html">Contact Me</a>
-</body>
-</html>
