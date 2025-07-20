@@ -4,9 +4,9 @@
   <hr/>
   <h3><a href="./public/movie-ranking.md">Movie Ranking Project</a></h3>
   <a href="./public/movie-ranking.md"><img src="./assets/images/movie-ranking.png" height="200" alt="movie ranking project preview"/></a>
-  <h3><a href="./public/birthday-invite.md">Birthday Invite Project</a><br>
-    <a href="./public/birthday-invite.md"><img src="./assets/images/birthday-invite.png" height="400" alt="birthday invite project preview"/>
+  <h3><a href="./public/birthday.md">Birthday Invite Project</a><br>
+    <a href="./public/birthday.md"><img src="./assets/images/birthday-invite.png" height="400" alt="birthday invite project preview"/>
   </a></h3>
   <hr />
   <a href="./public/about.md">About Me</a>
-  <a href="./public/contact.md">Contact Me</a>
+  <a href="./public/Contact.md">Contact Me</a>
